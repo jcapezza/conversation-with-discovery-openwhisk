@@ -11,7 +11,7 @@
     "node": [
       "generator-starterkit-content-downloader",
       "generator-ibm-cloud-enablement",
-      "generator-github-starterkit-credentials-builder"
+      "generator-git-starterkit-credentials-builder"
     ]
   },
   "generatorOptions": {
@@ -23,10 +23,10 @@
       "scope": "@arf",
       "version": "^0.0.5"
     },
-    "generator-github-starterkit-credentials-builder": {
+    "generator-git-starterkit-credentials-builder": {
       "registry": "https://npm-registry.whitewater.ibm.com",
       "scope": "@arf",
-      "version": "^0.0.2"
+      "version": "^0.0.5"
     }
   },
   "requiredCapabilities": [
